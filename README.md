@@ -14,7 +14,7 @@ As a team of innovative consultants, to help ASG Group address their innovation 
 
 2. **Recommendation algorithm**: Personalised training is customised to each different individual based on diagnostic tests, regular user’s activities and content consumption.
 
-3. **Notification system**: Information and reminders are regularly notified to keep employees constantly engaged in the cyber-related content and practices, and stimulate more communication around cybersecurity. 
+3. **Notification system**: Information and reminders are regularly notified to keep employees constantly engaged in the cyber-related content and practices, and stimulate more communication around cybersecurity.
 
 4. **Quizzes and scenario simulations**: To regularly gauge the internalisation of the content, quizzes and scenario simulations will be employed, effectively assessing knowledge and application in real-world situations.
 
