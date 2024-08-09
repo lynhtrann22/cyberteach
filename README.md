@@ -1,6 +1,4 @@
----
-layout: post
----
+# CYBERTEACH 
 
 ![Image](/assets/img/download_13.png)
 
