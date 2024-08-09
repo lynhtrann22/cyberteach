@@ -1,14 +1,13 @@
-title: Your awesome title
+title: Virtualso Team 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Lucy Tran, Adam Yeung, Yiping Ma
+  #email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  This project is a part of Innovations in Organisation Challenge S2, 2022 at the University of Sydney. 
+  We are delighted to be chosen as a winning team for this project by ASG Group, competing against 5 other teams. 
 
 # Build settings
 
@@ -28,7 +27,7 @@ plugins:
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-header_pages:
+#header_pages:
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
