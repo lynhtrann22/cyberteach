@@ -1,5 +1,6 @@
+# CYBERTEACH
 
-![Image](\assets\img\download_9.png)
+![Image](/assets/img/download_9.png)
 
 ## I. Context & Business Problem
 Due to rapid technological changes, companies are facing enormous pressure from cybersecurity. To keep up with this emerging need, ASG Group–an IT solution and digital transformation service provider was looking for a solution to increase cybersecurity awareness and foster cybersafe behaviour among employees of their clients 
@@ -10,7 +11,7 @@ As a team of innovative consultants, to help ASG Group address their innovation 
 ### How it works 
 1. **Mobile phone apps and websites**: Educational modules are delivered on mobile phone apps and websites, in which employees can access at any time and anywhere for their convenience.
 
-![Image](\assets\img\download_12.png)
+![Image](/assets/img/download_12.png)
 
 2. **Recommendation algorithm**: Personalised training is customised to each different individual based on diagnostic tests, regular user’s activities and content consumption.
 
@@ -18,6 +19,6 @@ As a team of innovative consultants, to help ASG Group address their innovation 
 
 4. **Quizzes and scenario simulations**: To regularly gauge the internalisation of the content, quizzes and scenario simulations will be employed, effectively assessing knowledge and application in real-world situations.
 
-![Image](\assets\img\download_11.png)
+![Image](/assets/img/download_11.png)
 
 [View Full Project](https://drive.google.com/file/d/1aBPX0PlH1_JLaAelKXFMvxPLnMSeUCck/view?usp=sharing)
