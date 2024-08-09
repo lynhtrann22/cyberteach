@@ -20,10 +20,6 @@ theme: minima
 
 plugins:
   - jekyll-titles-from-headings
-      titles_from_headings:
-      enabled:     true
-      strip_title: true
-      collections: false
   - jekyll-feed
   - jekyll-seo-tag
 
