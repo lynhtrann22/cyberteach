@@ -1,5 +1,5 @@
 # CYBERTEACH
-![Image](/assets/img/download_12.png)
+![Image](/assets/img/download_13.png)
 
 ## I. Context & Business Problem
 Due to rapid technological changes, companies are facing enormous pressure from cybersecurity. To keep up with this emerging need, ASG Group–an IT solution and digital transformation service provider was looking for a solution to increase cybersecurity awareness and foster cybersafe behaviour among employees of their clients 
