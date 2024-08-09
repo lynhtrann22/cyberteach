@@ -1,5 +1,5 @@
-
-![Image](/assets/img/download_10.png)
+# CYBERTEACH
+![Image](/assets/img/download_12.png)
 
 ## I. Context & Business Problem
 Due to rapid technological changes, companies are facing enormous pressure from cybersecurity. To keep up with this emerging need, ASG Group–an IT solution and digital transformation service provider was looking for a solution to increase cybersecurity awareness and foster cybersafe behaviour among employees of their clients 
@@ -7,7 +7,7 @@ Due to rapid technological changes, companies are facing enormous pressure from 
 ## II. Proposal Solution 
 As a team of innovative consultants, to help ASG Group address their innovation problem, our team proposed CyberTeach–an adaptive cybersecurity training solution.
 
-### How it works 
+### HOW IT WORKS 
 1. **Mobile phone apps and websites**: Educational modules are delivered on mobile phone apps and websites, in which employees can access at any time and anywhere for their convenience.
 
 ![Image](/assets/img/download_12.png)
